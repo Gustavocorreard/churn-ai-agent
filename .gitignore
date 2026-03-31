@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Ambiente virtual
+
+venv/
+.env
+
+# Dados grandes
+
+data/
+*.csv
+
+# Modelos
+
+models/
+*.pkl
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Sistema
+
+.DS_Store
+
+# VS Code
+
+.vscode/
