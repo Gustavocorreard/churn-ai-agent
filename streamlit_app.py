@@ -20,7 +20,7 @@ st.set_page_config(
 # =========================
 TEMPLATE_PATH = "data/raw/template_upload.csv"
 SAMPLE_PATH   = "data/raw/sample_input.csv"
-PIPELINE_PATH = "models/pipeline.pkl"
+PIPELINE_PATH = "models/pipeline_schema.pkl"
 
 COLUMN_LABELS_PT = {
     "Unnamed: 0": "Índice",
