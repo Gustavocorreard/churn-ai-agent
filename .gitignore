@@ -13,11 +13,6 @@ venv/
 data/
 *.csv
 
-# Modelos
-
-models/
-*.pkl
-
 # Jupyter
 
 .ipynb_checkpoints/
