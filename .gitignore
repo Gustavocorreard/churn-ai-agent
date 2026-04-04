@@ -8,11 +8,6 @@
 venv/
 .env
 
-# Dados grandes
-
-data/
-*.csv
-
 # Jupyter
 
 .ipynb_checkpoints/
@@ -24,3 +19,9 @@ data/
 # VS Code
 
 .vscode/
+
+#ignore data files, but allow specific ones
+!data/
+!data/raw/
+!data/raw/template_upload.csv
+!data/raw/sample_input.csv
