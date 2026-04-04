@@ -6,6 +6,17 @@ A solução foi construída com foco em aplicação real de negócio, permitindo
 
 ---
 
+
+## 🌐 Acesse a Aplicação
+
+Você pode testar o projeto em produção através do link abaixo:
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://churn-ai-agent-gust.streamlit.app/)
+
+
+---
+
+
 ## 📌 Problema de Negócio
 
 A retenção de clientes é um dos principais desafios das empresas.
